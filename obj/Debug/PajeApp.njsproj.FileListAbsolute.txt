@@ -1,0 +1,3 @@
+C:\Users\user\source\repos\PajeApp\PajeApp\obj\Debug\PajeApp.njsproj.AssemblyReference.cache
+C:\Users\user\source\repos\PajeApp\PajeApp\obj\Debug\PajeApp.njsproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PajeApp\PajeApp\bin\Microsoft.NodejsTools.WebRole.dll
